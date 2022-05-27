@@ -1,4 +1,8 @@
 # DNNMiniProject
+
+## Chest-Xray-Pneumonia
+- 정상 폐와 폐렴에 걸린 폐의 흉부 엑스레이 이미지를 가지고 진단을 할 수 있는 딥러닝 모델을 만드는 프로젝트
+
 ## 최종 모델/파라미터
 
 |Model|LR|BatchSize|Loss Function|Optimizer|Scheduler|Epoch|
